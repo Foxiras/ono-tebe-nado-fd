@@ -8,7 +8,7 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 94px 10px 95px; 
+    padding: 94px 10px 95px;
 }
 
 .header__menu-list {
@@ -150,7 +150,8 @@
 }
 
 .lots__card-list-item-overlay {
-    background-color: rgba(0, 0, 0, 0.6); 
+    background-color:
+     rgba(0, 0, 0, 0.6); 
     height: 596px;
     display: flex;
     flex-direction: column;
