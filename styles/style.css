@@ -9,6 +9,7 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     padding: 94px 10px 95px; 
+
 }
 
 .header__menu-list {
@@ -67,6 +68,7 @@
     background-color: rgba(0, 0, 0, 0.6);
     background-position: center;
     background-size: cover;  
+
 }
 
 .cover__title {
@@ -237,7 +239,6 @@
 }
 
 .about__logo-image {
-    background-image: url(/images/logo-white.svg);
     width: 141px;
     height: 112px;
     background-repeat: no-repeat;
@@ -255,7 +256,8 @@
 
 .about__text {
     padding-bottom: 28px;
-    font-size: 20px;   
+    font-size: 20px;
+
 }
 
 .footer {
@@ -313,7 +315,8 @@
 
 .footer__social-list-item {
     list-style-type: none;
-    padding-left: 48px;  
+    padding-left: 48px;
+     
 }
 
 .footer__social-icon {
