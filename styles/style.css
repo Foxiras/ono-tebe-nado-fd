@@ -244,7 +244,7 @@
   height: 112px;
 }
 
-.about-information{
+.about-information {
   display: flex;
   flex-direction: column;
   gap: 24px;
